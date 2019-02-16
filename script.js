@@ -74,44 +74,6 @@ let colorPoints = {
   orange: 3
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //
 //POSSIBLE SOLUTION:
 
